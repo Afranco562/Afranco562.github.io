@@ -1,1 +1,19 @@
 # Afranco562.github.io
+# H1 Heading
+## H2 Heading
+### H3 Heading
+#### H4 Heading
+##### H5 Heading
+###### H6 Heading
+
+
+## Horizontal Rules
+
+___
+
+## Emphasis
+
+**This is Bold text___
+
+___This 
+
